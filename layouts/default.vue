@@ -84,7 +84,7 @@ export default {
         }
       ],
 
-      title: "LIFE"
+      title: "LIFE dos"
     };
   }
 };
